@@ -10,4 +10,3 @@ REGLAS:
 8. Los titulos de la tabla tienen que estar con el color de fondo negro
 9. Ponle al body un margin left y un margin right de 80px
 10. Pon de color de fondo a la pagina antiquewhite.
-
